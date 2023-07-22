@@ -31,7 +31,7 @@ num1=temp
 print("Swapped values are:",num1,num2)
 ```
 ## OUTPUT:
-![output](output.png)
+![output](/output.png)
 ## RESULT:
 Thus the swapping of two values are successfully executed
 
